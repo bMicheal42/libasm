@@ -10,6 +10,7 @@ ssize_t		ft_write(int fd, void const *buf, size_t nbyte);
 ssize_t		ft_read(int fd, void *buf, size_t nbyte);
 char		*ft_strdup(char const *s1);
 ```
+click here to see full [Subject][https://github.com/bMicheal42/libasm/blob/master/libasm.pdf]
 
 ## Registers
 
@@ -102,3 +103,5 @@ syscall
 * [Hello, world!](https://gist.github.com/FiloSottile/7125822)
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 * [Stack Alignment](https://forum.nasm.us/index.php?topic=1689.0)
+
+[1]: https://github.com/bMicheal42/libasm/blob/master/libasm.pdf
