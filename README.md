@@ -10,7 +10,7 @@ ssize_t		ft_write(int fd, void const *buf, size_t nbyte);
 ssize_t		ft_read(int fd, void *buf, size_t nbyte);
 char		*ft_strdup(char const *s1);
 ```
-click here to see full [Subject][https://github.com/bMicheal42/libasm/blob/master/libasm.pdf]
+click here to see full [Subject][1]
 
 ## Registers
 
