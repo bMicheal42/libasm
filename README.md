@@ -1,6 +1,6 @@
 # libasm
 
-Write the following functions in x64 assembly (in the Intel syntax):
+Write the following functions in x64 assembly
 
 ```C
 int		ft_strlen(char const *str);
